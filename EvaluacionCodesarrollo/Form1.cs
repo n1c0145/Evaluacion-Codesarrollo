@@ -96,6 +96,10 @@ namespace EvaluacionCodesarrollo
                 Descripcion = "Alumno con calificaciones aceptables"
             });
             dgvAlumnos.DataSource = alumnos;
+            dgvAlumnos.Columns["Identificador"].HeaderText = "Código";
+            dgvAlumnos.Columns["Nombre"].HeaderText = "Nombre";
+            dgvAlumnos.Columns["Activo"].HeaderText = "Activo";
+            dgvAlumnos.Columns["Descripcion"].HeaderText = "Descripción";
             disponibles = alumnos
                  .Where(x => x.Activo == true)
                  .ToList();
@@ -166,7 +170,6 @@ namespace EvaluacionCodesarrollo
             dgvAlumnos.DataSource = null;
             dgvAlumnos.DataSource = alumnos;
 
-            // Actualizar ListBox de disponibles
             disponibles = alumnos
                 .Where(x => x.Activo == true)
                 .ToList();
