@@ -20,15 +20,24 @@ namespace EvaluacionCodesarrollo
 
         private void btnNuevoAlumno_Click(object sender, EventArgs e)
         {
+            string nombreCompleto = txtNombre.Text + " " + txtApellido.Text;
+
             Alumno alumno = new Alumno
             {
                 Identificador = alumnos.Max(x => x.Identificador) + 1,
-                Nombre = txtNombre.Text + " " + txtApellido.Text,
+                Nombre = nombreCompleto,
                 Activo = chkActivo.Checked,
                 Descripcion = txtDescripcion.Text
             };
 
             alumnos.Add(alumno);
+
+            MessageBox.Show(
+                $"El alumno {nombreCompleto} fue creado con éxito",
+                "Registro exitoso",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information
+            );
 
             this.Close();
         }
