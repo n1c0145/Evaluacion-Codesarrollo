@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|solutionrelative:evaluacioncodesarrollo\\formagregaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|c:\\users\\nicolas\\source\\repos\\evaluacioncodesarrollo\\evaluacioncodesarrollo\\formagregaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|C:\\Users\\Nicolas\\source\\repos\\EvaluacionCodesarrollo\\evaluacioncodesarrollo\\formagregaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|solutionrelative:evaluacioncodesarrollo\\formagregaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|c:\\users\\nicolas\\source\\repos\\evaluacioncodesarrollo\\evaluacioncodesarrollo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|C:\\Users\\Nicolas\\source\\repos\\EvaluacionCodesarrollo\\evaluacioncodesarrollo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5795D017-65C8-F803-29D5-6514C6D64460}|EvaluacionCodesarrollo\\EvaluacionCodesarrollo.csproj|solutionrelative:evaluacioncodesarrollo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "EvaluacionCodesarrollo\\FormAgregarAlumno.cs",
               "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\EvaluacionCodesarrollo\\EvaluacionCodesarrollo\\FormAgregarAlumno.cs",
               "RelativeToolTip": "EvaluacionCodesarrollo\\FormAgregarAlumno.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAzwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T15:44:05.426Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\EvaluacionCodesarrollo\\EvaluacionCodesarrollo\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "EvaluacionCodesarrollo\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:11:31.686Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-07-21T15:11:31.686Z"
             }
           ]
         }

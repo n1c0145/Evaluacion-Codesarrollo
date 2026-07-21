@@ -20,6 +20,20 @@ namespace EvaluacionCodesarrollo
 
         private void btnNuevoAlumno_Click(object sender, EventArgs e)
         {
+
+            if (string.IsNullOrWhiteSpace(txtNombre.Text) ||
+        string.IsNullOrWhiteSpace(txtApellido.Text) ||
+        string.IsNullOrWhiteSpace(txtDescripcion.Text))
+            {
+                MessageBox.Show(
+                    "Por favor complete todos los campos obligatorios",
+                    "Campos incompletos",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning
+                );
+
+                return;
+            }
             string nombreCompleto = txtNombre.Text + " " + txtApellido.Text;
 
             Alumno alumno = new Alumno
