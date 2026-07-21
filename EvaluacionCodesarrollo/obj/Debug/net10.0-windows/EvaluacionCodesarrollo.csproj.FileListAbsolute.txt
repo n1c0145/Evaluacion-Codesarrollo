@@ -1,0 +1,17 @@
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.Form1.resources
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.csproj.GenerateResource.cache
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\bin\Debug\net10.0-windows\EvaluacionCodesarrollo.exe
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\bin\Debug\net10.0-windows\EvaluacionCodesarrollo.deps.json
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\bin\Debug\net10.0-windows\EvaluacionCodesarrollo.runtimeconfig.json
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\bin\Debug\net10.0-windows\EvaluacionCodesarrollo.dll
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\bin\Debug\net10.0-windows\EvaluacionCodesarrollo.pdb
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.dll
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\refint\EvaluacionCodesarrollo.dll
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.pdb
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.genruntimeconfig.cache
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\ref\EvaluacionCodesarrollo.dll
+C:\Users\Nicolas\source\repos\EvaluacionCodesarrollo\EvaluacionCodesarrollo\obj\Debug\net10.0-windows\EvaluacionCodesarrollo.FormAgregarAlumno.resources
